@@ -1,4 +1,4 @@
-# GitHub Management Tool (GHM)
+# GitHub Manager (GHM)
 ## currently under development, accepting contributions
 
 The GitHub Management Tool (GHM) is a script designed to simplify and automate various GitHub repository and team management tasks. This tool allows users to create new teams, attach repositories to teams, or execute a full process based on a JSON mapping.
