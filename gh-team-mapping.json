@@ -1,0 +1,13 @@
+[
+    {
+        "team_name": "sample",
+        "organizations": ["sample-org1", "sample-org2"],
+        "repos": [
+            "sample-org1/repo1",
+            "sample-org2/repo2"
+        ]
+    },
+    {
+      ...
+    }
+]
